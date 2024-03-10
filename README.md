@@ -133,6 +133,131 @@ Click anywhere on the document outside the footnote editor window to complete th
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<h2>STEP 10: Add another footnote</h2>
+
+Place the cursor after the word “learn” in the first paragraph.
+
+Again, using the Footnotes group (of the References tab), click on Insert Footnote.
+Notice that the footnote number for the second footnote has changed.
+
+In the popup window that appears at the bottom of the page, type the footnote (without the quotes):
+
+“Or at least try”
+
+Use the mouse to leave the footnote by clicking somewhere in the upper part of the page.
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<h2>STEP 11: Display your footnotes</h2>
+
+Word for the web does not display footnotes in Editing mode. There are [at least] 2 ways to display footnotes:
+
+You can use Reading View in the Document Views group of the View tab
+
+You can change from Editing mode to Viewing mode. 
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+Regardless of the method you used to display your footnotes; you can get back to the Editing mode by using the Edit Document dropdown and choosing Edit.
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<h2>STEP 12: Create a header and footer</h2>
+
+A header is a line that runs along the top of every page of your document. A footer is a line that runs along the bottom of every page of your document.
+
+Using the Header & Footer group (of the Insert tab), click on Header & Footer.
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+The text in a header and/or a footer can be left-justified, centered, or right-justified.
+
+In the header area, type the following (without the quotes) so that it becomes left-justified:
+“Microcomputer Applications Area”
+
+You will need to adjust the column width of the text area so that the text will fit on a single line.
+
+In the footer area, type the following (without the brackets) so that it becomes left-justified:
+[Your Name]
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+Click anywhere on the document outside the Header & Footer editor window to complete the action.
+
+<h2>STEP 13: Add page numbers to the footer</h2>
+
+Using the Header & Footer group (of the Insert tab), click on Page Numbers.
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+Add the page numbers to the right side of the footer.
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+Use the mouse to leave the footer by clicking somewhere in the upper part of the page.
+
+<h2>STEP 14: Add a page break using the keyboard</h2>
+
+Place the cursor on the blank line after the line that ends in “…I will not get stuck.”.
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+Press the left CTRL key and Enter key simultaneously.
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+You can also insert a page break by using the Pages group (of the Insert tab) and clicking on Page Break.
+
+<h2>STEP 15: Display your header and footer (and footnotes)</h2>
+
+Just like it is with footnotes, Word for the web does not display your header and footer in Editing mode.
+
+Click on Reading View in the Document Views group of the View tab.
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<h2>STEP 16: Convert the doc to PDF</h2>
+
+Navigate back to editing mode.
+
+Click on the File menu.
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+Select the Save as tab and the Download as PDF option.
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+You now have the PDF version of the document
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
